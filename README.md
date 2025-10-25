@@ -74,7 +74,6 @@ Designed for users who want a **smart, personalized local music experience** wit
 
 *Tech:* Flutter (frontend), Go (backend), WebRTC  
 *Highlights:* Cross-platform, personal storage sync, AI-driven recommendations, intelligent playback.
----
 
 ---
 ### 🔹 [JNovel Unofficial](https://github.com/Phero49/jnovel_unofficial)
